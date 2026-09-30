@@ -2,8 +2,6 @@
 
 End-to-end analysis of city-level Air Quality Index (AQI) data: data cleaning and validation in Python, 20 analytical SQL queries in MySQL, unsupervised and supervised machine learning, and a 5-page interactive Power BI dashboard.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green)
-
 ---
 
 ## Table of Contents
@@ -265,5 +263,5 @@ Interactive Power BI report with five pages (screenshots in `dashboards/screensh
 
 ## Author
 
-**Vishnu** · B.Tech CSE (AI & ML), CMR Institute of Technology, Hyderabad
+**Thakur Vishnu Vardhan Singh**  CMR Institute of Technology, Hyderabad
 [LinkedIn](https://linkedin.com/in/vishnuvardhansingh) · [GitHub](https://github.com/vishnuthakur-05)
